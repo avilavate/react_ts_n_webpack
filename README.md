@@ -1,1 +1,14 @@
-"# react_ts_n_webpack" 
+
+## undefined
+react integration with ts
+
+## Current Version
+1.0.0
+
+## Author
+Avil
+
+## License
+ISC
+
+        
